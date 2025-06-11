@@ -30,7 +30,7 @@
     font-weight: 400;
     text-align: center;
     color: var(--branco);
-    background: url("Images/Pesquisa.png") no-repeat;
+    background: url("Images/Lupa.svg") no-repeat;
     background-position: 1em;
 }
 
