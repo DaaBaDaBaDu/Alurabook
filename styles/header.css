@@ -1,14 +1,14 @@
 .cabecalho__menu-hamburger {
     width: 24px;
     height: 24px;
-    background-image: url("Images/Menu.svg");
+    background-image: url("Images/Menu.png");
     background-repeat: no-repeat;
     background-position: center;
     display: inline-block;
 }
 
 .container__botao:checked~.container__rotulo>.cabecalho__menu-hamburger {
-    background-image: url("Images/Menu-aberto.svg");
+    background-image: url("Images/Menu-aberto.png");
 }
 
 .container__botao:checked ~ .container__rotulo {
